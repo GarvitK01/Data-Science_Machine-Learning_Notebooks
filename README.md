@@ -1,5 +1,4 @@
 # Kaggle-Notebooks
-## Kaggle Competition Notebooks
 
 ### Campus Recuruitment : 
   #### Competition Link: https://www.kaggle.com/benroshan/factors-affecting-campus-placement
